@@ -125,10 +125,10 @@ var-es-engine/
 - A fully executable Colab notebook (`VaR_ES_Engine.ipynb`) implementing the full pipeline end-to-end.
 - A CSV export of the consolidated risk summary table.
 - Four professional-grade chart sets suitable for a risk report or GitHub README.
-- A console-printed, formatted institutional-style risk report.
+- A console-printed, formatted Portfolio Value-at-Risk and Expected Shortfall Measurement System risk report.
 
 ## 14. Resume Description
-> *"Built an institutional-grade Value-at-Risk and Expected Shortfall engine in Python, implementing Historical Simulation, Parametric, and Monte Carlo methodologies across a multi-asset portfolio; validated model accuracy using a Kupiec Proportion-of-Failures backtest and produced automated risk reporting and visualization consistent with Basel/FRTB market risk practices."*
+> *"Built a Portfolio Value-at-Risk and Expected Shortfall Measurement System in Python, implementing Historical Simulation, Parametric, and Monte Carlo methodologies across a multi-asset portfolio; validated model accuracy using a Kupiec Proportion-of-Failures backtest and produced automated risk reporting and visualization consistent with Basel/FRTB market risk practices."*
 
 ## 15. Potential Upgrades
 - EWMA (RiskMetrics) or GARCH(1,1) conditional volatility for time-varying VaR.
